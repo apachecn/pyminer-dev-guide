@@ -142,4 +142,4 @@ PyMiner 的落地，离不开广大的算法工程师的群智，而目前国内
 
 ## TODO
 
-在 PyMiner 发布稳定版本后，将[数据科学](https://github.com/apachecn/apachec-ds-zh)和[深度学习](https://github.com/apachecn/apachec-dl-zh)译文集改写为 PyMiner 实现，作为官方教程集。
+在 PyMiner 发布稳定版本后，将[数据科学](https://github.com/apachecn/apachecn-ds-zh)和[深度学习](https://github.com/apachecn/apachecn-dl-zh)译文集改写为 PyMiner 实现，作为官方教程集。
