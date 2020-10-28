@@ -1,8 +1,5 @@
 +   [PyMiner 开发者指南](README.md)
 +   [概述](docs/02.md)
-+   [项目说明](docs/03.md)
-+   [项目计划](docs/04.md)
-+   [如何参与项目？](docs/05.md)
 +   [配置国内python镜像源](docs/06.md)
 +   [编程规范](docs/07.md)
 +   [前言](docs/08.md)
